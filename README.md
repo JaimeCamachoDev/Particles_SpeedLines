@@ -1,35 +1,9 @@
 <header>
 
-![Sin título-2](https://github.com/user-attachments/assets/5b933a56-0ece-452a-99c0-1a641485a6b9)
 
-# Titulo
+![VFX_2025-02-11_067](https://github.com/user-attachments/assets/50eac189-eb2d-4c5f-aa71-74ea551472a7)
 
-_Descripción_
+# Particles Speed Lines
 
-</header>
+_Particle System in Unity 6 URP, Speed Lines_
 
-## Subtitulo
-
-Descripción :tada: :keyboard: 
-
-Asi se hacen hypervinculos [repository](https://github.com/JaimeCamachoDev/Template?tab=readme-ov-file#titulo).
-
-### Encabezado
-
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-1. Lista
-
-<footer>
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-</footer>
